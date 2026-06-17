@@ -1,18 +1,29 @@
-# Hi, I'm Zakariae 👋
+<h1 align="center">Hi, I'm Zakariae 👋</h1>
 
-I'm an integration & full-stack developer based in Morocco.
+<p align="center"><b>I build things end to end</b> — backend · frontend · automation · AI · and a little game dev for fun.</p>
 
-I build the automations that keep businesses running — and whenever an idea won't leave my head, I build the app or tool too, and ship it.
+<p align="center"><i>If I can imagine it, I build it and ship it.</i></p>
 
-My day-to-day is **NetSuite, Celigo, Workato and EDI** for integration work, and **Laravel, React, Python and Node** for everything else. Lately I've been building **AI agents with the Model Context Protocol (MCP)**.
+---
 
-My favorite project so far is the **[AI Universal Scraper](https://github.com/ZAKRIAZ/ai-universal-scraper)** — point an LLM at any website and get clean, structured data back.
+### 🧩 What I build
 
-A few of my projects are pinned below 👇 — and I'm always shipping something new.
+| | |
+|---|---|
+| ⚙️ **Automation & Integration** | NetSuite · Celigo · Workato · EDI · REST APIs |
+| 🖥️ **Backend** | Python · PHP / Laravel · Node.js · MySQL · MongoDB |
+| 🎨 **Frontend** | React · TypeScript · Tailwind · clean, fast UIs |
+| 🤖 **AI** | Agents & tools built on the Model Context Protocol (MCP) |
+| 🎮 **Games** | I tinker with game dev whenever I want to have fun |
 
-**A few things about me**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,react,tailwind,nodejs,mysql,mongodb,docker,git&theme=dark" alt="tech stack" />
+</p>
 
-- I'd rather spend an hour automating a task than do it twice
-- Most of my tools started as "this annoys me — let me fix it"
-- Based in Rabat 🇲🇦 · open to remote (EU / EMEA)
-- Reach me on [LinkedIn](https://www.linkedin.com/in/zakariae-belfkih)
+---
+
+<p align="center">
+  📍 Rabat, Morocco &nbsp;·&nbsp; open to remote (EU / EMEA) &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/zakariae-belfkih">LinkedIn</a>
+  <br/>
+  <sub>A few of my projects are pinned below 👇</sub>
+</p>
