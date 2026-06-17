@@ -1,68 +1,88 @@
-<!--
-  ════════════════════════════════════════════════════════════════
-  GITHUB PROFILE README  ·  Zakariae Belfkih
-  HOW TO USE: create a repo named EXACTLY your GitHub username
-  (e.g. github.com/zakariae-belfkih/zakariae-belfkih), add this
-  file as README.md, commit. It will appear on your profile.
-  ⚠️ Replace YOUR_USERNAME everywhere below with your real handle.
-  ════════════════════════════════════════════════════════════════
--->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     GitHub Profile README · Zakariae Belfkih (ZAKRIAZ)
+     Lives at github.com/ZAKRIAZ/ZAKRIAZ → README.md
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center">Hi, I'm Zakariae 👋</h1>
-<h3 align="center">Integration & Full-Stack Developer — iPaaS · EDI · Automation · AI Agents</h3>
+<!-- ── Animated header banner ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E6AD2,100:828DEC&height=190&section=header&text=Zakariae%20Belfkih&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Integration%20%26%20Full-Stack%20Developer%20%C2%B7%20iPaaS%20%C2%B7%20EDI%20%C2%B7%20AI%20Agents&descSize=17&descAlignY=58" width="100%" alt="Zakariae Belfkih" />
 
+<!-- ── Typing intro ── -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/zakariae-belfkih">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=828DEC&center=true&vCenter=true&width=620&lines=Integration+%26+Automation+Developer;NetSuite+%C2%B7+Celigo+%C2%B7+Workato+%C2%B7+EDI;Full-stack%3A+Laravel+%C2%B7+React+%C2%B7+Python+%C2%B7+Node;Building+AI+agents+with+MCP" alt="What I do" />
+  </a>
+</p>
+
+<!-- ── Social + profile views ── -->
 <p align="center">
   <a href="https://www.linkedin.com/in/zakariae-belfkih"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:zakaria@lysi.co"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- <a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/></a> -->
+  <img src="https://komarev.com/ghpvc/?username=ZAKRIAZ&style=for-the-badge&color=5E6AD2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-### 🚀 About me
+## 🚀 About me
 
-- 🔗 **Integration developer @ LYSI** — I build the automations and integrations that keep business data flowing
-- ⚙️ I work with **iPaaS & EDI** platforms: **Celigo · Workato · Orderful · NetSuite · REST APIs**
-- 🧩 Full-stack on the side: **Laravel/PHP · React · Python · Node.js**
-- 🤖 Currently building **AI agents with the Model Context Protocol (MCP)** — connecting LLMs to real systems
-- 🌍 Based in **Rabat, Morocco** — open to remote (EU/EMEA) opportunities
-- 📫 Reach me: **zakaria@lysi.co**
+```yaml
+role:      Integration Developer @ LYSI — I build the automations that keep business data flowing
+focus:     iPaaS & EDI  →  Celigo · Workato · Orderful · NetSuite · REST APIs
+fullstack: Laravel/PHP · React · Python · Node.js · MySQL · MongoDB
+building:  AI agents on the Model Context Protocol (MCP) + production web scrapers
+location:  Rabat, Morocco 🇲🇦  ·  open to remote (EU / EMEA)
+contact:   zakaria@lysi.co
+```
 
----
+## 🛠️ Tech & Tools
 
-### 🛠️ Tech Stack
+**Integration / iPaaS**
+&nbsp;
+![NetSuite](https://img.shields.io/badge/NetSuite-1A1A1A?style=for-the-badge)
+![Celigo](https://img.shields.io/badge/Celigo-00A1E0?style=for-the-badge&logoColor=white)
+![Workato](https://img.shields.io/badge/Workato-5C2D91?style=for-the-badge&logoColor=white)
+![Orderful EDI](https://img.shields.io/badge/Orderful%20EDI-2E7D32?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-FF9013?style=for-the-badge&logo=apify&logoColor=white)
 
-![NetSuite](https://img.shields.io/badge/NetSuite-1A1A1A?style=flat-square)
-![Celigo](https://img.shields.io/badge/Celigo-00A1E0?style=flat-square)
-![Workato](https://img.shields.io/badge/Workato-5C2D91?style=flat-square)
-![EDI](https://img.shields.io/badge/EDI-2E7D32?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Engineering**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,react,nodejs,mysql,mongodb,docker,git,linux" alt="stack" />
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAKRIAZ&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKRIAZ&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAKRIAZ&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=828dec&icon_color=828dec" alt="stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAKRIAZ&theme=tokyonight&hide_border=true&ring=828dec&fire=5E6AD2&currStreakLabel=828dec" alt="streak" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKRIAZ&layout=compact&theme=tokyonight&hide_border=true&title_color=828dec&langs_count=10" alt="top langs" height="150"/>
 </p>
 
----
+## 📌 Featured Projects
 
-### 📌 Featured Work
+<p align="center">
+  <a href="https://github.com/ZAKRIAZ/ai-universal-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZAKRIAZ&repo=ai-universal-scraper&theme=tokyonight&hide_border=true&title_color=828dec&icon_color=828dec" alt="ai-universal-scraper"/>
+  </a>
+  <a href="https://github.com/ZAKRIAZ/shopify-store-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZAKRIAZ&repo=shopify-store-scraper&theme=tokyonight&hide_border=true&title_color=828dec&icon_color=828dec" alt="shopify-store-scraper"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ZAKRIAZ/apify-harvester">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZAKRIAZ&repo=apify-harvester&theme=tokyonight&hide_border=true&title_color=828dec&icon_color=828dec" alt="apify-harvester"/>
+  </a>
+</p>
 
-> Pin 4–6 repos on your profile. Best candidates:
-> - **mcp-agent** — an AI agent built on the Model Context Protocol
-> - **ipaas-integration-demo** — a NetSuite/Celigo-style integration + automation example
-> - a **full-stack app** (Laravel/React)
-> - any automation script/tool you're proud of
+> 🤖 **AI Universal Scraper** — point an LLM at any URL → clean structured data (bring-your-own-key).
+> 🛍️ **Shopify Store Scraper** — export any store's full catalog (live on the Apify Store).
+> 🌾 **Apify Harvester** — scrape any site/app via Apify, as a clean CLI + library.
 
-<p align="center"><i>"I connect systems and automate the work in between."</i></p>
+<!-- Optional: contribution-snake animation. Enable by adding the Platane/snk
+     GitHub Action (.github/workflows/snake.yml) that writes to an `output` branch:
+<p align="center"><img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/output/github-snake-dark.svg" alt="snake"/></p>
+-->
+
+<p align="center"><i>“I connect systems and automate the work in between.”</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:828DEC,100:5E6AD2&height=110&section=footer" width="100%" alt="" />
