@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  📍 Rabat, Morocco &nbsp;·&nbsp; open to remote (EU / EMEA) &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/zakariae-belfkih">LinkedIn</a>
+  📍 Rabat, Morocco &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/zakariae-belfkih">LinkedIn</a>
   <br/>
   <sub>A few of my projects are pinned below 👇</sub>
 </p>
