@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Zakariae 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/banner.gif" alt="Zakariae Belfkih — Backend · Frontend · Automation · AI" width="100%" />
+</p>
 
-<p align="center"><b>I build things end to end</b> — backend · frontend · automation · AI · and a little game dev for fun.</p>
-
-<p align="center"><i>If I can imagine it, I build it and ship it.</i></p>
+<p align="center"><b>I build things end to end</b> — and tinker with game dev for fun.<br/><i>If I can imagine it, I build it and ship it.</i></p>
 
 ---
 
