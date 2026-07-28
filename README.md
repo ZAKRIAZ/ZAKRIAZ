@@ -38,28 +38,14 @@ I'm Zakariae — I build across the whole stack: backend, frontend, automation &
 
 ### Shipping
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZAKRIAZ/reality-editor"><img src="https://socialify.git.ci/ZAKRIAZ/reality-editor/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="reality-editor"/></a>
-      <br/><b>🪄 Reality Editor</b><br/><sub>Hand-gesture AR in the browser — <a href="https://zakriaz.github.io/reality-editor/">live demo</a></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZAKRIAZ/smart-scraper-by-example"><img src="https://socialify.git.ci/ZAKRIAZ/smart-scraper-by-example/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="smart-scraper-by-example"/></a>
-      <br/><b>🧠 Smart Scraper</b><br/><sub>Extract structured data by example — no CSS selectors, no API key</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZAKRIAZ/ai-universal-scraper"><img src="https://socialify.git.ci/ZAKRIAZ/ai-universal-scraper/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="ai-universal-scraper"/></a>
-      <br/><b>🤖 AI Universal Scraper</b><br/><sub>URL + the fields you want → clean structured data from any page</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZAKRIAZ/shopify-store-scraper"><img src="https://socialify.git.ci/ZAKRIAZ/shopify-store-scraper/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="shopify-store-scraper"/></a>
-      <br/><b>🛍 Shopify Store Scraper</b><br/><sub>Any store's full catalog via its public product feed</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ZAKRIAZ/reality-editor"><img src="https://socialify.git.ci/ZAKRIAZ/reality-editor/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="reality-editor" width="640"/></a>
+</p>
+<p align="center">
+  <b>🪄 Reality Editor</b> — hand-gesture AR in the browser. Frame a piece of the world with your hands,<br/>turn it into a black hole, an ocean, frozen time.
+  <br/><br/>
+  <a href="https://zakriaz.github.io/reality-editor/"><img src="https://img.shields.io/badge/LIVE_DEMO-▶_Open_with_camera-b71c1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+</p>
 
 ---
 
