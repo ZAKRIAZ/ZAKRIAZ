@@ -56,3 +56,4 @@ I'm Zakariae — I build across the whole stack: backend, frontend, automation &
 <p align="center">Rabat, Morocco &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/zakariae-belfkih">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/7_akaria">@7_akaria</a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,45:8b0000,100:b71c1c&height=110&section=footer" width="100%" alt=""/>
+
