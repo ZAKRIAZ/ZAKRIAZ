@@ -2,8 +2,10 @@
   <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/banner.gif" alt="Zakariae Belfkih" width="100%" />
 </p>
 
-<h3 align="center">I build things end to end.</h3>
-<p align="center">Full-stack · automation & integrations · AI agents<br/><sub>If I can imagine it, I build it and ship it.</sub></p>
+<p align="center">
+  <a href="https://github.com/ZAKRIAZ"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=17&pause=1200&center=true&vCenter=true&width=520&color=B71C1C&lines=I+build+things+end+to+end.;never+stop+creating.;if+I+can+imagine+it%2C+I+ship+it." alt="I build things end to end."/></a>
+</p>
+<p align="center">Full-stack · automation & integrations · AI agents</p>
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,laravel,react,ts,nodejs,mysql,mongodb,tailwind&theme=dark&perline=8" alt="stack"/></a>
@@ -13,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ZAKRIAZ/reality-editor"><img src="https://socialify.git.ci/ZAKRIAZ/reality-editor/image?description=1&font=Inter&language=1&pattern=Circuit%20Board&theme=Dark" alt="reality-editor" width="640"/></a>
+  <a href="https://zakriaz.github.io/reality-editor/"><img src="assets/reality-editor-hero.png" alt="Reality Editor — hand-gesture AR in the browser" width="720"/></a>
 </p>
 <p align="center">
   <a href="https://zakriaz.github.io/reality-editor/"><img src="https://img.shields.io/badge/LIVE_DEMO-▶_Open_with_camera-b71c1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
