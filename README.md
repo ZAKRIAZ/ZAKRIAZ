@@ -15,9 +15,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://zakriaz.github.io/reality-editor/"><img src="assets/reality-editor-hero.png" alt="Reality Editor — hand-gesture AR in the browser" width="720"/></a>
-</p>
-<p align="center">
   <a href="https://zakriaz.github.io/reality-editor/"><img src="https://img.shields.io/badge/LIVE_DEMO-▶_Open_with_camera-b71c1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
 </p>
 <p align="center"><sub>🪄 <b>Reality Editor</b> — frame a piece of the world with your hands, turn it into a black hole, an ocean, frozen time.</sub></p>
