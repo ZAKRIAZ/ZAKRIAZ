@@ -22,6 +22,13 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/ZAKRIAZ/portfolio"><img src="https://img.shields.io/badge/ARCADE_PORTFOLIO-⌨_Read_the_code-1c1c1e?style=for-the-badge&logo=github&logoColor=white" alt="Arcade Portfolio"/></a>
+</p>
+<p align="center"><sub>🕹️ <b>Arcade Portfolio</b> — my CV as a playable arcade cabinet: CRT boot sequence, five levels, chiptune written in Web Audio, a Konami minigame.</sub></p>
+
+<br/>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZAKRIAZ&layout=compact&hide_border=true&bg_color=00000000&title_color=b71c1c&text_color=9a9a9a&langs_count=8" height="150" alt="top languages"/>
 </p>
 
