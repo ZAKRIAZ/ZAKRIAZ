@@ -22,9 +22,9 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ZAKRIAZ/portfolio"><img src="https://img.shields.io/badge/ARCADE_PORTFOLIO-⌨_Read_the_code-1c1c1e?style=for-the-badge&logo=github&logoColor=white" alt="Arcade Portfolio"/></a>
+  <a href="https://zakriaz.github.io/portfolio/"><img src="https://img.shields.io/badge/PLAY_IT-▶_Insert_coin-b71c1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play the portfolio"/></a>
 </p>
-<p align="center"><sub>🕹️ <b>Arcade Portfolio</b> — my CV as a playable arcade cabinet: CRT boot sequence, five levels, chiptune written in Web Audio, a Konami minigame.</sub></p>
+<p align="center"><sub>🕹️ <b>Arcade Portfolio</b> — my CV as a playable arcade cabinet: CRT boot sequence, five levels, chiptune written in Web Audio, a Konami minigame. &nbsp;·&nbsp; <a href="https://github.com/ZAKRIAZ/portfolio">source</a></sub></p>
 
 <br/>
 
