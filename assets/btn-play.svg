@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="44" viewBox="0 0 235 44" role="img" aria-label="PLAY IT: INSERT COIN">
+<rect width="235" height="44" fill="#0a0a0b"/>
+<rect x="90" width="145" height="44" fill="#b71c1c"/>
+<rect x=".5" y=".5" width="234" height="43" fill="none" stroke="#b71c1c" stroke-width="1"/>
+<path d="M105 16h2v12h-2zM107 17h2v10h-2zM109 18h2v8h-2zM111 19h2v6h-2zM113 20h2v4h-2zM115 21h2v2h-2z" fill="#e8e6e3"/>
+<g fill="#e8e6e3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.6" text-anchor="middle">
+<text x="45" y="26">PLAY IT</text>
+<text x="172.6" y="26">INSERT COIN</text>
+</g></svg>

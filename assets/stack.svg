@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="472" height="62" viewBox="0 0 472 62" role="img" aria-label="Stack: PY, LARAVEL, REACT, TS, NODE, MYSQL, MONGO, TAILWIND. Plus NetSuite, Celigo, Workato, EDI, MCP agents.">
+<rect width="472" height="62" fill="#0a0a0b"/>
+<rect x="16" y="9" width="440" height="28" fill="#131316"/>
+<path d="M50.5 9V37M122.5 9V37M179.5 9V37M213.5 9V37M262.5 9V37M319.5 9V37M376.5 9V37" stroke="#8b0000" stroke-width="1" opacity=".8"/>
+<rect x="16.5" y="9.5" width="439" height="27" fill="none" stroke="#b71c1c" stroke-width="1"/>
+<g fill="#e8e6e3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.0" text-anchor="middle">
+<text x="33" y="27">PY</text>
+<text x="86" y="27">LARAVEL</text>
+<text x="150.5" y="27">REACT</text>
+<text x="196" y="27">TS</text>
+<text x="237.5" y="27">NODE</text>
+<text x="290.5" y="27">MYSQL</text>
+<text x="347.5" y="27">MONGO</text>
+<text x="416" y="27">TAILWIND</text>
+</g>
+<text x="236" y="52" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.9" text-anchor="middle">+ NETSUITE · CELIGO · WORKATO · EDI · MCP AGENTS</text>
+</svg>
