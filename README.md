@@ -16,6 +16,15 @@
   <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/assets/line-stack.svg" alt="+ NetSuite · Celigo · Workato · EDI · MCP agents" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/assets/logo-node.gif" alt="Animated Node.js mark — drawn as one continuous line" width="118" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/assets/logo-python.gif" alt="Animated Python mark — two halves spiralling together" width="118" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZAKRIAZ/ZAKRIAZ/main/assets/line-marks.svg" alt="Hand-built motion · pure SVG · seamless loops" width="100%" />
+</p>
+
 <br/>
 
 <p align="center">
